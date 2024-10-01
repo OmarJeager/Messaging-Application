@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat Application using PHP with MySQL & Ajax
 
 version: 1.0.0
@@ -18,3 +19,6 @@ version: 1.0.0
 ## Authors
 
 [Elias Abdurrahman](https://github.com/codingWithElias)
+=======
+# Messaging-Application
+>>>>>>> 0b5cae50a2977320848daed20e0c043cec0e7f89
