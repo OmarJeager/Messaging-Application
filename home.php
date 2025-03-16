@@ -95,7 +95,7 @@
     			<?php }else{ ?>
     				<div class="alert alert-info 
     				            text-center">
-					   <i class="fa fa-comments d-block fs-big"></i>
+					   <i class="m"></i>
                        No messages yet, Start the conversation
 					</div>
     			<?php } ?>

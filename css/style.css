@@ -72,5 +72,9 @@ small {
 textarea {
 	resize: none;
 }
-
+.m{
+	width: 100px;
+	height: 100px;
+	color: red;
+}
 /*message_status*/
